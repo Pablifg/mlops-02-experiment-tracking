@@ -1,0 +1,79 @@
+{
+    "os": "Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.10",
+    "python": "3.8.16",
+    "heartbeatAt": "2023-05-31T16:38:32.500497",
+    "startedAt": "2023-05-31T16:38:30.363768",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "train.py",
+    "codePath": "train.py",
+    "host": "DESKTOP-PUKS586",
+    "username": "fer",
+    "executable": "/home/fer/anaconda3/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2592.0,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 250.92389297485352,
+        "used": 38.005306243896484
+    },
+    "gpu": "NVIDIA GeForce GTX 960M",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 960M",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 7.69329833984375
+    }
+}

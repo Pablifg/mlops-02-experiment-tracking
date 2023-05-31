@@ -1,0 +1,10 @@
+wandb
+jupyter
+scikit-learn
+pandas
+seaborn
+hyperopt
+xgboost
+fastparquet
+boto3
+pyarrow

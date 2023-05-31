@@ -1,0 +1,5 @@
+name: mlops-zoomcamp
+channels:
+  - conda-forge
+  - defaults
+prefix: /home/fer/anaconda3/envs/mlops-zoomcamp
